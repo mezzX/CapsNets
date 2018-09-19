@@ -12,3 +12,5 @@ Matplotlib
 # References:
 
 https://github.com/ageron/handson-ml/blob/master/extra_capsnets.ipynb
+
+https://github.com/naturomics/CapsLayer
