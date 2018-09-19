@@ -1,2 +1,2 @@
-model_checkpoint_path: "capsnetv1"
-all_model_checkpoint_paths: "capsnetv1"
+model_checkpoint_path: "capsnetv2"
+all_model_checkpoint_paths: "capsnetv2"
